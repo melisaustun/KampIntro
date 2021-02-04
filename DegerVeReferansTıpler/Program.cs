@@ -19,7 +19,7 @@ namespace DegerVeReferansTıpler
 
             sayilar1 = sayilar2;
             sayilar2[0] = 999;
-            //sayilar1[o] ?? 999 REFERANS (sayilar 1 için yeni bir yer açılır)
+            //sayilar1[o] ?? 999 REFERANS
     
 
 
